@@ -136,3 +136,13 @@ p {
   margin-top: 20px;
   cursor: pointer;
 }
+
+@media(max-width: 480px) {
+#root{
+flex-direction: column;
+}
+.offerContainers{
+width: 80%;
+margin: 10px 0;
+}
+}
