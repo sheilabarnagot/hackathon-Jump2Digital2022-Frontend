@@ -28,7 +28,7 @@ _Tener instalado un IDE como Visual Studio Code u otros._
 
 ## Despliegue 📦
 
-_Agregar notas adicionales sobre como hacer deploy_
+_En el siguiente [enlace](https://hackathon-jump2-digital2022-frontend.vercel.app/) llegaréis al proyecto desplegado_
 
 ## Construido con 🛠️
 
